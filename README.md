@@ -1,12 +1,12 @@
 # Scsi50F-to-IDC26
 
-Little adapter to use 50pin male devices with 13x2 scsi hosts. Not too much to say, just a little PCB to connect 50 male scsi devices to 13x6 (26) idc hosts adapters, like Blizzard SCSI module for example.
+Little adapter to plug on the back of any 50 pin male scsi devices and output 13x2 (26pin) scsi hosts. Like Blizz* SCSI module for example.
 
 # Pinout
 
 From the 50 pin connector to the 26 pin connector.
 
-(50 Female) 2 - 50 Signals to (26 IDC Male) 1 - 25 signals.
+(50 Female) 2 - 50 to (26 IDC Male) 1 - 25 signals.
 
 (50 Female) 1-49 GND
 
