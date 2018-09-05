@@ -20,7 +20,7 @@ If you like the project, buy me a beer or a Mercedes Benz SLR whatever you want 
 
 # Images
 
-<img src="https://github.com/arananet/CartridgeDuino/blob/master/images/top3.png?raw=true" width="700">
+<img src="https://github.com/arananet/Scsi50F-to-IDC26/blob/master/images/top.png?raw=true" width="700">
 
 # Bill of materials
 
@@ -29,3 +29,6 @@ If you like the project, buy me a beer or a Mercedes Benz SLR whatever you want 
 | CONN1         | 2x25 pin female 2.54 connector  |
 | CONN2         | 2x13 idc male 2.54              |
 
+# Gerbers
+
+On the gerbers folder.
