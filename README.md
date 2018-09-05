@@ -29,6 +29,8 @@ If you like the project, buy me a beer or a Mercedes Benz SLR whatever you want 
 | CONN1         | 2x25 pin female 2.54 connector  |
 | CONN2         | 2x13 idc male 2.54              |
 
+Also a IDC 26 female to female cable needed in order to connect the board to the host.
+
 # Gerbers
 
 On the gerbers folder.
