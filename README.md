@@ -21,6 +21,7 @@ If you like the project, buy me a beer or a Mercedes Benz SLR whatever you want 
 # Updates
 
 12/09/2018 Fixed a problem with the scsi data pinout.
+
 05/09/2018 Initial release.
 
 
