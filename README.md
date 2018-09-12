@@ -18,6 +18,12 @@ This is a work in progress, several testing must be made but it should work as i
 
 If you like the project, buy me a beer or a Mercedes Benz SLR whatever you want :) - info@arananet.net
 
+# Updates
+
+12/09/2018 Fixed a problem with the scsi data pinout.
+05/09/2018 Initial release.
+
+
 # Images
 
 <img src="https://github.com/arananet/Scsi50F-to-IDC26/blob/master/images/top.png?raw=true" width="700">
