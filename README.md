@@ -20,6 +20,8 @@ If you like the project, buy me a beer or a Mercedes Benz SLR whatever you want 
 
 # Updates
 
+12/11/2019: Updated license stuff (I usually not do this but I must start it with this).
+
 12/09/2018 Fixed a problem with the scsi data pinout.
 
 05/09/2018 Initial release.
@@ -38,6 +40,15 @@ If you like the project, buy me a beer or a Mercedes Benz SLR whatever you want 
 
 Also a IDC 26 female to female cable needed in order to connect the board to the host.
 
-# Gerbers
+# License
 
-On the gerbers folder.
+Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0
+International License][cc-by-sa].
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
