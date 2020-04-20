@@ -16,7 +16,8 @@ From the 50 pin connector to the 26 pin connector.
 
 This is a work in progress, several testing must be made but it should work as is. I take no responsibiltiy for any damage to any equipment that results from the use of this board. USE AT YOUR OWN RISK!
 
-If you like the project, buy me a beer or a Mercedes Benz SLR whatever you want :) - info@arananet.net
+If you like the project or want to support it, you can buy me a beer or a KO-FI :) 
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H51MPWG)
 
 # Updates
 
